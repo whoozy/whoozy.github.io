@@ -30,7 +30,6 @@ li {
   position: relative;
 }
 
-a.nounderline:link  
-{  
- text-decoration:none;  
+a.nounderline:link {  
+  text-decoration:none;  
 }

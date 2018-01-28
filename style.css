@@ -1,8 +1,12 @@
 * {
-  font-family: Areal;
-  font-size: 30px;
+  font-family: Areal, sans-serif;
+}
+
+p {
+  font-size: 20px;
 }
 
 h1 {
   color: white;
+  font-size: 30px;
 }

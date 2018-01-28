@@ -16,4 +16,5 @@ h1 {
 img {
   width: 1000px;
   margin: 0px auto;
+  position: relative;
 }

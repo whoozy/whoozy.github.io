@@ -10,9 +10,10 @@ p {
 }
 
 h1 {
-  color: AntiqueWhite;
+  color: Sienna;
   font-size: 60px;
   padding: 30px;
+  margin: 0px;
   background-image: url("https://i2.wp.com/about-history.com/wp-content/uploads/2017/01/History-banner.jpg?ssl=1");
   background-repeat: no-repeat;
   background-size: cover;

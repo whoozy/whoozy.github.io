@@ -2,7 +2,6 @@
   font-family: Areal, sans-serif;
   background-color: BurlyWood;
   box-sizing: border-box;
-  border: 1px solid black;
 }
 
 p {
@@ -10,7 +9,7 @@ p {
 }
 
 h1 {
-  color: Cornsilk;
+  color: Bisque;
   font-size: 60px;
   padding: 10px;
   margin: 0;

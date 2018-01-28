@@ -1,6 +1,7 @@
 * {
   font-family: Areal, sans-serif;
   background-color: BurlyWood;
+  box-sizing: border-box;
 }
 
 p {
@@ -14,5 +15,5 @@ h1 {
 
 img {
   width: 1000px;
-  margin: 0px, auto;
+  margin: 0px auto;
 }

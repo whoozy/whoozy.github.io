@@ -30,6 +30,10 @@ h1 {
   z-index: 1;
 }
 
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
 li {
   border: 1px solid white;
   background-color: SandyBrown;

@@ -41,9 +41,7 @@ h1 {
 
 .dropdown:hover .dropdown-content {
   display: block;
-  color: white;
-  background-color: SandyBrown;
-  border: 1px solid white;
+ 
 }
 
 li {

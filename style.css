@@ -22,7 +22,7 @@ h1 {
 
 .dropdown-content {
   display: none;
-  
+  position: absolute;
   color: white;
   background-color: SandyBrown;
   width: 120px;

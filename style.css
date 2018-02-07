@@ -31,7 +31,7 @@ h1 {
   line-height: 50px;
 }
 
-.dropdown-content p {
+p.dropdown-content {
   display: none;
   position: absolute;
   color: white;

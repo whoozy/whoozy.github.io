@@ -21,8 +21,14 @@ h1 {
 }
 
 .dropdown {
-    position: relative;
-    display: inline-block;
+  position: relative;
+  display: inline-block;
+  color: white;
+  background-color: SandyBrown;
+  width: 120px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
 }
 
 .dropdown-content {

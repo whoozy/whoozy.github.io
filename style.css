@@ -4,9 +4,8 @@
   box-sizing: border-box;
 }
 
-p, span {
-  font-size: 20px;
-  background-color: SandyBrown;
+p {
+  font-size: 20px; 
 }
 
 h1 {
@@ -50,6 +49,11 @@ h1 {
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+dropdown.span {
+  font-size: 20px;
+  background-color: SandyBrown;
 }
 
 li {

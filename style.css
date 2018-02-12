@@ -22,7 +22,7 @@ h1 {
 
 .dropdown {
   position: relative;
-  
+  display: inline-block;
   color: white;
   background-color: SandyBrown;
   width: 120px;

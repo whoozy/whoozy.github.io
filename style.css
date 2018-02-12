@@ -43,7 +43,7 @@ h1 {
   border: 1px solid white;
   padding: 12px 16px;
   z-index: 1;
-  overflow: scroll;
+  
 }
 
 .dropdown:hover .dropdown-content {

@@ -57,9 +57,9 @@ h1 {
   position: relative;
   width: 120px;
   height: 50px;
- 
   color: white;
   background-color: SandyBrown;
+  margin-left: 20px;
 }
 
 .dropdown-content p {

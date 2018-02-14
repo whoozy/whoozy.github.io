@@ -55,7 +55,7 @@ h1 {
 
 .dropdown span {
   border: 1px solid white;
-  display: block;
+  display: inline-block;
   width: 120px;
   height: 50px;
   color: white;

@@ -53,6 +53,8 @@ h1 {
 
 .dropdown span {
   display: inline-block;
+  width: 120px;
+  height: 150px; 
   color: white;
   background-color: SandyBrown;
 }

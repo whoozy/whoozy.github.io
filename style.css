@@ -52,11 +52,9 @@ h1 {
 }
 
 .dropdown span {
+  display: inline-block;
   color: white;
   background-color: SandyBrown;
-  border: 1px solid white;
-  width: 120px;
-  height: 150px;
 }
 
 .dropdown-content p {

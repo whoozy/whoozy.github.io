@@ -30,6 +30,7 @@ h1 {
   text-align: center;
   line-height: 50px;
   border: 1px solid white;
+  box-sizing: border-box;
 }
 
 .dropdown-content1, .dropdown-content2, .dropdown-content3, .dropdown-content4 {

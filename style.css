@@ -51,6 +51,11 @@ h1 {
   display: block;
 }
 
+.dropdown2:hover .dropdown-content2 {
+  display: block;
+}
+
+
 .dropdown span {
   border: 1px solid white;
   display: inline-block;

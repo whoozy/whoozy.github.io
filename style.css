@@ -20,7 +20,7 @@ h1 {
   max-height: 300px;
 }
 
-.dropdown {
+.dropdown1, .dropdown2 {
   position: relative;
   display: inline-block;
   color: white;
@@ -59,7 +59,6 @@ h1 {
   height: 50px;
   color: white;
   background-color: SandyBrown;
-  margin-left: 20px;
 }
 
 .dropdown-content p {

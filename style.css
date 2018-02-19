@@ -63,8 +63,6 @@ h1 {
   display: block;
 }
 
-
-
 .dropdown span {
   border: 1px solid white;
   display: inline-block;
@@ -75,9 +73,6 @@ h1 {
   background-color: SandyBrown;
 }
 
-.dropdown-content p {
-  background-color: SandyBrown;
-}
 
 li {
   border: 1px solid white;

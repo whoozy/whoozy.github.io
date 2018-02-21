@@ -64,6 +64,10 @@ h1 {
   display: block;
 }
 
+.dropdown-content1:hover {
+    display: block;
+}
+
 .dropdown span {
   background-color: SandyBrown;
 }

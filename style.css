@@ -46,6 +46,7 @@ h1 {
   border: 1px solid white;
   padding: 12px 16px;
   z-index: 1;
+  margin: 0;
 }
 
 .dropdown1:hover .dropdown-content1 {
@@ -62,10 +63,6 @@ h1 {
 
 .dropdown4:hover .dropdown-content4 {
   display: block;
-}
-
-.dropdown-content1:hover {
-    display: block;
 }
 
 .dropdown span {

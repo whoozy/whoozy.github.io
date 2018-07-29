@@ -1,13 +1,17 @@
+/* CSS to do list: Bootstrap messed up background color; must fix.
+
+
+/* box-sizing technically not needed, comes with bootstrap */
 * {
   font-family: Areal, sans-serif;
   background-color: BurlyWood;
-  
+  box-sizing: border-box;
 }
 
 p {
   font-size: 20px; 
 }
-
+/* Main title */ 
 h1 {
   color: AntiqueWhite;
   font-size: 55px;
@@ -19,7 +23,7 @@ h1 {
   min-height: 200px;
   max-height: 300px;
 }
-
+/* Dropdown buttons */
 .dropdown1, .dropdown2, .dropdown3, .dropdown4 {
   position: relative;
   display: block;
@@ -34,7 +38,7 @@ h1 {
   box-sizing: border-box;
   margin: 0;
 }
-
+/* Dropdown content */
 .dropdown-content1, .dropdown-content2, .dropdown-content3, .dropdown-content4 {
   display: none;
   position: absolute;
@@ -51,6 +55,7 @@ h1 {
   margin: 0;
 }
 
+/* Combine these if possible */
 .dropdown1:hover .dropdown-content1 {
   display: block;
 }

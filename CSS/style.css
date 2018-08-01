@@ -80,6 +80,9 @@ h1 {
   background-color: SandyBrown;
 }
 
+h2 {
+ margin: 0;
+}
 
 li {
   border: 1px solid white;

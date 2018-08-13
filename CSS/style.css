@@ -56,19 +56,7 @@ h1 {
 }
 
 /* Combine these if possible */
-.dropdown1:hover .dropdown-content1 {
-  display: block;
-}
-
-.dropdown2:hover .dropdown-content2 {
-  display: block;
-}
-
-.dropdown3:hover .dropdown-content3 {
-  display: block;
-}
-
-.dropdown4:hover .dropdown-content4 {
+.dropdown1:hover .dropdown-content1, .dropdown2:hover .dropdown-content2, .dropdown3:hover .dropdown-content3, .dropdown4:hover .dropdown-content4 {
   display: block;
 }
 

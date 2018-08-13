@@ -1,4 +1,4 @@
-/* CSS to do list: Bootstrap messed up background color; must fix.
+/* CSS to do list: Combine classes */
 
 
 /* box-sizing technically not needed, comes with bootstrap */
@@ -72,11 +72,7 @@ h1 {
   display: block;
 }
 
-.dropdown span {
-  background-color: SandyBrown;
-}
-
-.dropdown p { 
+.dropdown span, p {
   background-color: SandyBrown;
 }
 

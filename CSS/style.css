@@ -72,11 +72,7 @@ h1 {
   display: block;
 }
 
-.dropdown span {
-  background-color: SandyBrown;
-}
-
-.dropdown p { 
+.dropdown span p {
   background-color: SandyBrown;
 }
 

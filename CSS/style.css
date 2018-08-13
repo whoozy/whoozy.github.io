@@ -60,7 +60,7 @@ h1 {
   display: block;
 }
 
-.dropdown1 span {
+.dropdown1 button {
   position: relative;
   display: block;
   float: left;

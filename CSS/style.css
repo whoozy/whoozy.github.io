@@ -72,8 +72,8 @@ h1 {
   display: block;
 }
 
-.dropdown p {
- 
+.dropdown p span {
+  background-color: SandyBrown;
 }
 
 h2 {

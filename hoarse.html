@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<head>
+  <title>HOARSE</title>
+  <link href="CSS/hoarse.css" type="text/css" rel="stylesheet">
+</head>
+<body> 
+<img src="https://www.thoughtco.com/thmb/tDiFfpWQkZHIAndMWk9HVK_x0ck=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/getty_hoarse_horse-106908015-56af9d6a5f9b58b7d01b18cf.jpg">
+  
+  <div class="w3-dropdown-click">
+  <button onclick="myFunction()" class="w3-button w3-black">Click Me!</button>
+  <div id="Demo" class="w3-dropdown-content w3-bar-block w3-border">
+    <a href="#" class="w3-bar-item w3-button">Link 1</a>
+    <a href="#" class="w3-bar-item w3-button">Link 2</a>
+    <a href="#" class="w3-bar-item w3-button">Link 3</a>
+  </div>
+</div>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("Demo");
+    if (x.className.indexOf("w3-show") == -1) { 
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script> 
+
+<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>   
+
+
+<script>
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown menu if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}   
+  </script>
+</body>

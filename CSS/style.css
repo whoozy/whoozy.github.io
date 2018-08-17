@@ -24,7 +24,7 @@ h1 {
   max-height: 300px;
 }
 /* Dropdown buttons */
-.dropdown2, .dropdown3, .dropdown4 {
+.dropdown 1, .dropdown2, .dropdown3, .dropdown4 {
   position: relative;
   display: block;
   float: left;
@@ -58,21 +58,6 @@ h1 {
 /* Combine these if possible */
 .dropdown1:hover .dropdown-content1, .dropdown2:hover .dropdown-content2, .dropdown3:hover .dropdown-content3, .dropdown4:hover .dropdown-content4 {
   display: block;
-}
-
-.dropdown1 button {
-  position: relative;
-  display: block;
-  float: left;
-  color: white;
-  background-color: SandyBrown;
-  width: 25%;
-  height: 50px;
-  text-align: center;
-  line-height: 50px;
-  border: 1px solid white;
-  box-sizing: border-box;
-  margin: 0;
 }
 
 .dropdown span, .dropdown p {
